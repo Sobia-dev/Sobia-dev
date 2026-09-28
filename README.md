@@ -1,6 +1,6 @@
 ## ![](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'M+Sobia&font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&width=500)
 
-## 🔭 I’m currently working on GIAC - GCFA, CyberSafe Home Lab Project, Win11 STIG Remediation and Threat Hunting Competitions.
+## I am currently working on GIAC-GCFA, CyberSafe Home Lab Project, Win11 STIG Remediation Project, and Threat Hunting Competitions.
 
 <!--
 **Sobia-dev/Sobia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
