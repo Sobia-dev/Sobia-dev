@@ -52,6 +52,15 @@
 
 <img src="https://img.shields.io/badge/🎓_Certifications_&_Training-008080?style=for-the-badge" width="300">
 
+### - GIAC: GIAC Certified Incident Handler (GCIH)
+### - GIAC Security Essentials (GSEC)
+### - GIAC Foundational Cybersecurity Technologies (GFACT)
+### - ISC2: Systems Security Certified Practitioner (SSCP)
+### - CompTIA: PenTest+, CySA+, Security+, Network+, A+, Project+
+### - LPI: Linux Foundations
+### - Axelos: ITIL 4
+### - AI Cyber Defense Ops - Just Hacking Training
+### - 
 
 
 
