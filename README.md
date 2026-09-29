@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Win11_STIG_Remediation-0057B8?style=for-the-badge" width="300" height="40">
+## <img src="https://img.shields.io/badge/Win11_STIG_Remediation_Project-0057B8?style=for-the-badge" width="300" height="40">
 
 ### - WN11-AU-000500
 ### - WN11-AU-000505
