@@ -1,6 +1,6 @@
 ![](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+Sobia&font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&width=500)
 
-### 🎯 I am currently working on GIAC-GCFA, Threat Hunting Competitions, Win11 STIG Remediation Project, and CyberSafe Home Lab Project.
+### 🎯 I am currently working on GIAC-GCFA, Threat Hunting Competitions, Win11 STIG Remediation Project, CyberSafe Home Lab Project, and Vulnerability Assessments.
 
 
 
