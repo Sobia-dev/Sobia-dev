@@ -8,7 +8,7 @@
 
 ### [Flowforge-JADEPUFFER-Threat-Hunt-09-12-26](https://github.com/Sobia-dev/Flowforge-JADEPUFFER-Threat-Hunt-09-12-26)
 
-### Meridian-threat-Hunt-09-29-26
+### [Meridian-threat-Hunt-09-29-26](https://github.com/Sobia-dev/Meridian-threat-Hunt-09-29-26)
 
 <!--
 **Sobia-dev/Sobia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
