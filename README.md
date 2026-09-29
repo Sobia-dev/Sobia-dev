@@ -50,7 +50,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Certifications-008080?style=for-the-badge" width="300">
+<img src="https://img.shields.io/badge/Certifications-008080?style=for-the-badge" width="300" height="40">
 
 
 
