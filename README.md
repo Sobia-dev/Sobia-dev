@@ -18,6 +18,9 @@
 
 ## <img src="https://img.shields.io/badge/Win11_STIG_Remediation-0057B8?style=for-the-badge" width="300" height="40">
 
+### - [WN11-AU-000500.ps1](https://github.com/Sobia-dev/REPO-NAME/blob/main/scripts/WN11-AU-000500.ps1)
+- [WN11-AU-000505.ps1](https://github.com/Sobia-dev/REPO-NAME/blob/main/scripts/WN11-AU-000505.ps1)
+
 ### 
 
 <!--
