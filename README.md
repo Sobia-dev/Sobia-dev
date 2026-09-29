@@ -12,8 +12,10 @@
 
 ### [Meridian-threat-Hunt-09-29-26](https://github.com/Sobia-dev/Meridian-threat-Hunt-09-29-26)
 
+<br>
+<br>
 
-## <img src="https://img.shields.io/badge/Win11-STIG-Remediation-8B0000?style=for-the-badge" width="300">
+## <img src="https://img.shields.io/badge/Win11_STIG_Remediation-0057B8?style=for-the-badge" width="300">
 
 <!--
 **Sobia-dev/Sobia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
