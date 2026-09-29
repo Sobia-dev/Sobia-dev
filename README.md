@@ -55,6 +55,8 @@
 ### - SANS Technology Institute, Undergraduate Certificate in Applied Cybersecurity
 ### - Western Governors University, Bachelor of Science in Cybersecurity and Information Assurance
 
+<br>
+
 ### - GIAC: GIAC Certified Incident Handler (GCIH)
 ### - GIAC Security Essentials (GSEC)
 ### - GIAC Foundational Cybersecurity Technologies (GFACT)
