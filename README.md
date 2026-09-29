@@ -1,8 +1,8 @@
 ## ![](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+Sobia&font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&width=500)
 
-## I am currently working on GIAC-GCFA, CyberSafe Home Lab Project, Win11 STIG Remediation Project, and Threat Hunting Competitions.
+#🔭 I am currently working on GIAC-GCFA, CyberSafe Home Lab Project, Win11 STIG Remediation Project, and Threat Hunting Competitions.
 
-# https://img.shields.io/badge/LABEL-COLOR?style=for-the-badge Threat Hunting Competitions
+# ![](https://img.shields.io/badge/Threat_Hunting-00E5FF?style=for-the-badge) Threat Hunting Competitions
 ## Flowforge-JADEPUFFER-Threat-Hunt-09-12-26
 # 
 
