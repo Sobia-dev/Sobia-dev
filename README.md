@@ -6,7 +6,7 @@
 <br>
 <br>
 
-## <img src="https://img.shields.io/badge/Threat_Hunting_Competitions-8B0000?style=for-the-badge" width="300">
+## <img src="https://img.shields.io/badge/Threat_Hunting_Competitions-8B0000?style=for-the-badge" width="300" height="40">
 
 ### [Flowforge-JADEPUFFER-Threat-Hunt-09-12-26](https://github.com/Sobia-dev/Flowforge-JADEPUFFER-Threat-Hunt-09-12-26)
 
@@ -15,7 +15,9 @@
 <br>
 <br>
 
-## <img src="https://img.shields.io/badge/Win11_STIG_Remediation-0057B8?style=for-the-badge" width="300">
+## <img src="https://img.shields.io/badge/Win11_STIG_Remediation-0057B8?style=for-the-badge" width="300" height="40">
+
+### 
 
 <!--
 **Sobia-dev/Sobia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
