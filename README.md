@@ -2,7 +2,7 @@
 
 ### ☕🎯 I am currently working on GIAC-GCFA, CyberSafe Home Lab Project, Win11 STIG Remediation Project, and Threat Hunting Competitions.
 
----
+
 
 <br>
 
