@@ -2,6 +2,7 @@
 
 ### ☕🎯 I am currently working on GIAC-GCFA, CyberSafe Home Lab Project, Win11 STIG Remediation Project, and Threat Hunting Competitions.
 
+---
 
 <br>
 <br>
@@ -14,6 +15,8 @@
 
 <br>
 <br>
+
+---
 
 ## <img src="https://img.shields.io/badge/Win11_STIG_Remediation-0057B8?style=for-the-badge" width="300" height="40">
 
