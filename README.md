@@ -50,7 +50,10 @@
 
 ---
 
-<img src="https://img.shields.io/badge/🎓_Certifications_&_Training-008080?style=for-the-badge" width="300">
+<img src="https://img.shields.io/badge/🎓_Education_&_Certifications-008080?style=for-the-badge" width="300">
+
+### - SANS Technology Institute, Undergraduate Certificate in Applied Cybersecurity
+### - Western Governors University, Bachelor of Science in Cybersecurity and Information Assurance
 
 ### - GIAC: GIAC Certified Incident Handler (GCIH)
 ### - GIAC Security Essentials (GSEC)
@@ -60,10 +63,6 @@
 ### - LPI: Linux Foundations
 ### - Axelos: ITIL 4
 ### - AI Cyber Defense Ops - Just Hacking Training
-### - 
-
-
-
 
 
 <!--
