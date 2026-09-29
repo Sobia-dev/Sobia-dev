@@ -2,7 +2,7 @@
 
 ## I am currently working on GIAC-GCFA, CyberSafe Home Lab Project, Win11 STIG Remediation Project, and Threat Hunting Competitions.
 
-# Threat Hunting Competitions
+# https://img.shields.io/badge/LABEL-COLOR?style=for-the-badge Threat Hunting Competitions
 ## Flowforge-JADEPUFFER-Threat-Hunt-09-12-26
 # 
 
