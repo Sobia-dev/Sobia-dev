@@ -18,7 +18,13 @@
 
 ## <img src="https://img.shields.io/badge/Win11_STIG_Remediation-0057B8?style=for-the-badge" width="300" height="40">
 
-### - [WN11-AU-000500.ps1]([paste-the-exact-url-here](https://github.com/Sobia-dev/Win11-STIG-Remediation/blob/main/WN11-AU-000500.ps1))
+### - WN11-AU-000500
+### - WN11-AU-000505
+### - WN11-CC-000038
+### - WN11-CC-000315
+### - WN11-CC-000180
+### - WN11-CC-000185
+### - WN11-CC-000190
 
 ### 
 
