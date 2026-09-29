@@ -46,6 +46,17 @@
 | GREENBONE-SCANNER | SECOPS | 10.10.50.20 | Vulnerability scanner | ✅ Deployed |
 | SOAR | SECOPS | 10.10.50.30 | Orchestration & response | 🚧 In progress |
 
+<br>
+
+---
+
+<img src="https://img.shields.io/badge/Certifications-008080?style=for-the-badge" width="300">
+
+
+
+
+
+
 <!--
 **Sobia-dev/Sobia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
