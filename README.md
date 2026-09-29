@@ -30,8 +30,6 @@
 
 ---
 
-<img src="https://img.shields.io/badge/CyberSafe_Home_Lab_Project-2E8B57?style=for-the-badge" width="300">
-
 <img src="https://img.shields.io/badge/CyberSafe_Home_Lab_Project-6A0DAD?style=for-the-badge" width="300">
 
 <!--
