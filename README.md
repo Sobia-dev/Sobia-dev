@@ -70,7 +70,7 @@
 
 <br>
 
-![Streak](https://streak-stats.demolab.com?user=Sobia-dev&theme=tokyonight)
+![Cybersecurity Activity Overview](cyber-radar.svg)
 
 
 
