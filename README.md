@@ -70,11 +70,7 @@
 
 <br>
 
-![Sobia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sobia-dev&show_icons=true&theme=tokyonight)
-
-<br>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sobia-dev&theme=tokyo-night)
+![Streak](https://streak-stats.demolab.com?user=Sobia-dev&theme=tokyonight)
 
 
 
