@@ -70,9 +70,6 @@
 
 <br>
 
-![Cybersecurity Activity Overview](cyber-radar.svg)
-
-
 
 
 <!--
