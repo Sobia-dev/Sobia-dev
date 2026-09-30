@@ -66,6 +66,18 @@
 ### - Axelos: ITIL 4
 ### - AI Cyber Defense Ops - Just Hacking Training
 
+---
+
+<br>
+
+![Sobia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sobia-dev&show_icons=true&theme=tokyonight)
+
+<br>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sobia-dev&theme=tokyo-night)
+
+
+
 
 <!--
 **Sobia-dev/Sobia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
