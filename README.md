@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/CyberSafe_Home_Lab_Project-6A0DAD?style=for-the-badge" width="300">
 
 
-**Lab Environment — 9 VMs, segmented behind pfSense across 5 VLANs**
+**Lab Environment — 9 VMs, segmented behind pfSense across 5 VLANs (in-progress)**
 
 | VM | VLAN | IP | Role | Status |
 |---|---|---|---|---|
