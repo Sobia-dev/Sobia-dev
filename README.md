@@ -28,9 +28,9 @@
 ### [Flowforge-JADEPUFFER-Threat-Hunt-09-12-26](https://github.com/Sobia-dev/Flowforge-JADEPUFFER-Threat-Hunt-09-12-26)
 
 ### [Meridian-threat-Hunt-09-29-26](https://github.com/Sobia-dev/Meridian-threat-Hunt-09-29-26)
-
-<br>
 ---
+<br>
+
 
 <img src="https://img.shields.io/badge/Win11_STIG_Remediation_Project-0057B8?style=for-the-badge" width="300" height="40">
 
@@ -45,7 +45,6 @@
 ### - WN11-CC-000327
 
 
-<br>
 <br>
 
 ---
