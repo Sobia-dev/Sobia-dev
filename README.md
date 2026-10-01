@@ -22,7 +22,6 @@
 
 ---
 <br>
-<br>
 
 <img src="https://img.shields.io/badge/Threat_Hunting_Competitions-8B0000?style=for-the-badge" width="300" height="40">
 
