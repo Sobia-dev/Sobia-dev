@@ -20,6 +20,9 @@
 | GREENBONE-SCANNER | SECOPS | 10.10.50.20 | Vulnerability scanner | ✅ Deployed |
 | SOAR | SECOPS | 10.10.50.30 | Orchestration & response | 🚧 In progress |
 
+---
+<br>
+
 <img src="https://img.shields.io/badge/Threat_Hunting_Competitions-8B0000?style=for-the-badge" width="300" height="40">
 
 ### [Flowforge-JADEPUFFER-Threat-Hunt-09-12-26](https://github.com/Sobia-dev/Flowforge-JADEPUFFER-Threat-Hunt-09-12-26)
@@ -46,22 +49,6 @@
 <br>
 
 ---
-
-<img src="https://img.shields.io/badge/CyberSafe_Home_Lab_Project-6A0DAD?style=for-the-badge" width="300">
-
-
-**Lab Environment — 9 VMs, segmented behind pfSense across 5 VLANs (in-progress)**
-
-| VM | VLAN | IP | Role | Status |
-|---|---|---|---|---|
-| KALI-JUMPBOX | LAN | 10.10.0.50 | Attacker / jumpbox | ✅ Deployed |
-| DC01 | CORPORATE | 10.10.20.10 | Domain Controller | ✅ Deployed |
-| WIN11-CLIENT | CORPORATE | 10.10.20.11 | Domain workstation | ✅ Deployed |
-| WEBSERVER01 | DMZ | 10.10.30.10 | Web app host | ✅ Deployed |
-| DBSERVER01 | APPDATA | 10.10.40.10 | Database host | ✅ Deployed |
-| WAZUH | SECOPS | 10.10.50.10 | SIEM | ✅ Deployed |
-| GREENBONE-SCANNER | SECOPS | 10.10.50.20 | Vulnerability scanner | ✅ Deployed |
-| SOAR | SECOPS | 10.10.50.30 | Orchestration & response | 🚧 In progress |
 
 <br>
 
